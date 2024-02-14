@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Don\'t have an account? Click to Register</string>
+    <string name="have_account">Already have an account? Click to login</string>
+    <string name="settings_title">Contacts Preferences</string>
+    <string name="show_phone_number">Phone</string>
+    <string name="show_email">Email</string>
+    <string name="show_birthday">Birthday</string>
+    <string name="show_gender">Gender</string>
+    <string name="save_settings">Save Changes</string>
+    <string name="settings_description">Choose what info displayed in contact list</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete Contact</string>
+</resources>
